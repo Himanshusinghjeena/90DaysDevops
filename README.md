@@ -95,9 +95,9 @@ Inside each week folder you will find:
 
 ## 🔗 Connect With Me
 
-👤 Name: YOUR NAME  
-💼 LinkedIn: YOUR_LINK  
-🐙 GitHub: YOUR_LINK  
+👤 Name: HIMANSHU SINGH JEENA  
+💼 LinkedIn: 
+🐙 GitHub:   
 
 ---
 
